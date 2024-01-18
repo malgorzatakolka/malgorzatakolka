@@ -1,8 +1,8 @@
 ### Hi there 👋 thank you for visiting me
 
 
-* 🔭 I’m currently working on my GitHub landing page.
-* 🌱 I’m currently learning data visualisation, SQL and machine learning
+* 🔭 I’m currently working on Speech Recognition Model Evaluation.
+* 🌱 I’m currently learning data visualisation, SQL and machine learning.
 * 🤔 I’m looking for source, hire and train opportunities.
 * 📫 How to reach me: malgorzata.kolka@gmail.com
 * 😄 Pronouns: her/she
